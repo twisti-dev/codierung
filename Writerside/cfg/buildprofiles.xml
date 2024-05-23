@@ -1,0 +1,10 @@
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+    <variables>
+        <primary-color>emerald</primary-color>
+        <color-preset>vivid</color-preset>
+    </variables>
+
+    <build-profile instance="hi">
+    </build-profile>
+</buildprofiles>

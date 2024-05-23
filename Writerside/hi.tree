@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Codierung"
+                 start-page="codierung.md">
+
+    <toc-element topic="codierung.md"/>
+    <toc-element toc-title="Kodierung von Daten">
+        <toc-element topic="binärdarstellung-von-daten.md">
+            <toc-element topic="Umwandlung-zwischen-Zahlen-in-Dezimal-und-Binärdarstellung.md">
+            </toc-element>
+        </toc-element>
+        <toc-element topic="Hexadezimalsystem.md">
+            <toc-element topic="Umwandlung-zwischen-Zahlen-in-Dezimal-und-Hexadezimaldarstellung.md"/>
+        </toc-element>
+        <toc-element topic="RGB-Format.md"/>
+    </toc-element>
+</instance-profile>
