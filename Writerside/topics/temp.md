@@ -1,10 +1,10 @@
 # RGB-Format
 
-Das RGB-Farbmodell ist ein additives Farbmodell, bei dem Licht in den drei Grundfarben Rot (R), Grün (G) und Blau (B) gemischt wird, um eine breite Palette von Farben zu erzeugen. Es wird in vielen Bereichen wie Computergrafik, Fotografie und Fernsehtechnologie verwendet.
+Das RGB-Farbmodell ist ein Farbmodell, bei dem Licht in den drei Grundfarben Rot (R), Grün (G) und Blau (B) gemischt wird, um eine breite Palette von Farben zu erzeugen. Es wird in vielen Bereichen wie Computergrafik, Fotografie und Fernsehtechnologie verwendet.
 
 ## Grundlagen
 
-Im RGB-Farbmodell werden Farben durch die Intensität der drei Grundfarben dargestellt. Jede dieser Farben kann einen Wert zwischen 0 und 255 annehmen, wobei 0 die geringste und 255 die höchste Intensität darstellt.
+Im RGB-Farbmodell werden Farben durch die Intensität der drei Grundfarben dargestellt. Jede dieser Farben kann einen Wert zwischen `0` und `255` annehmen, wobei `0` die geringste und `255` die höchste Intensität darstellt.
 
 ### Beispiel: {id="example-1"}
 
